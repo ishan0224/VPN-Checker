@@ -27,11 +27,11 @@ This project is a simple VPN checker that detects if a provided IP address belon
 
 1.  **Clone the Repository:**
     
-	`git clone https://github.com/yourusername/vpn-checker.git` 
+    `git clone https://github.com/ishan0224/VPN-Checker.git` 
     
 2.  **Navigate to the Project Directory:**
     
-    `cd vpn-checker` 
+    `cd VPN-Checker` 
     
 3.  **Install Dependencies:**
     
